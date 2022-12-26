@@ -5,6 +5,6 @@ according to their department of working.
 In this project we can set new password and
 Alternate email and mailbox capacity also.
 This is best Java miniproject for beginners
-Thanks you!
+Thank you!
 
 
